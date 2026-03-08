@@ -1,0 +1,16 @@
+{
+  "name": "school_managemant_system",
+  "version": "1.0.0",
+  "description": "its simple school managemant sysytem ",
+  "license": "ISC",
+  "author": "muhammad amin",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev":"nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
